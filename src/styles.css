@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  max-width: 524px;
+}
+
+.logo {
+  margin: 0 auto;
+}
